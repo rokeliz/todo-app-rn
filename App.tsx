@@ -34,7 +34,7 @@ export default function App() {
           }}
         />
         <Button
-          title='Decrease'
+          title='Decreas'
           onPress={() => {
             setCount((old) => old - 1)
           }}
